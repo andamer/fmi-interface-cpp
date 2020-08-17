@@ -1,0 +1,248 @@
+In file included from FmiTest_Model_functions.c:2:
+In file included from ./FmiTest_Model_functions.h:3:
+In file included from ./meta/meta_modelica.h:49:
+./gc/omc_gc.hIn file included from :FmiTest_Model_records.c217::428:
+:In file included from  ./meta/meta_modelica.hwarning:: 49:
+expression result unused [-Wunused-value]./gc/omc_gc.h
+:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+  GC_register_displacement(0);./gc/omc_gc.h
+:                           ^221
+:34:./gc/omc_gc.h warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_01exo.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model.c:7:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+In file included from FmiTest_Model_02nls.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_03lsy.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_04set.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+In file included from FmiTest_Model_05evt.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_06inz.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_07dly.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+2 warnings generated.
+In file included from FmiTest_Model_08bnd.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+In file included from FmiTest_Model_11mix.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_09alg.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_10asr.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+In file included from FmiTest_Model_12jac.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_13opt.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_14lnz.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_15syn.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+In file included from FmiTest_Model_17inl.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_16dae.c:2:
+In file included from ./FmiTest_Model_model.h:5:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_init_fmu.c:1:
+In file included from ./simulation_data.h:39:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+In file included from FmiTest_Model_FMU.c:9:
+In file included from ./openmodelica.h:71:
+In file included from ./gc/../openmodelica_types.h:111:
+./gc/omc_gc.h:217:28: warning: expression result unused [-Wunused-value]
+  GC_register_displacement(0);
+                           ^
+./gc/omc_gc.h:221:34: warning: expression result unused [-Wunused-value]
+  GC_set_force_unmap_on_gcollect(1);
+                                 ^
+2 warnings generated.
+2 warnings generated.
+In file included from FmiTest_Model_FMU.c:55:
+./fmi-export/fmu2_model_interface.c.inc:79:11: warning: enumeration value 'modelSlaveInitialized' not handled in switch [-Wswitch]
+  switch (comp->state)
+          ^
+./fmi-export/fmu2_model_interface.c.inc:168:16: warning: passing 'char **' to parameter of type 'const char **' discards qualifiers in nested pointer types [-Wincompatible-pointer-types-discards-qualifiers]
+  GC_vasprintf(&str, msg, args);
+               ^~~~
+./gc/../meta/../util/modelica_string.h:71:31: note: passing argument to parameter 'strp' here
+int GC_vasprintf(const char **strp, const char *fmt, va_list ap);
+                              ^
+2 warnings generated.
+4 warnings generated.

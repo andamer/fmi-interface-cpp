@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fmiModelDescription
+  fmiVersion="2.0"
+  modelName="RcModel"
+  guid="{a87d8829-60ea-59a3-67e3-afb328e34208}"
+  description="RC Circuit model derived by Mathworks model . https://it.mathworks.com/help/physmod/simscape/examples/rc-circuit-in-simulink-and-simscape.html. "
+  generationTool="Simulink (R2020a)"
+  version="1.5"
+  variableNamingConvention="structured"
+  generationDateAndTime="2020-06-27T12:14:32Z"
+  numberOfEventIndicators="0">
+
+<CoSimulation
+  modelIdentifier="RcModel"
+  canBeInstantiatedOnlyOncePerProcess="true"
+  canNotUseMemoryManagementFunctions="true"
+  />
+<DefaultExperiment startTime="0" stopTime="5" stepSize="0.001"/>
+<VendorAnnotations>
+  <Tool name="Simulink">
+    <Simulink>
+      <ImportCompatibility requireRelease="all" requireMATLABOnPath="no" />
+    </Simulink>
+  </Tool>
+</VendorAnnotations>
+<ModelVariables>
+  <ScalarVariable name="v" valueReference="0" description="v" causality="input" variability="continuous" >
+    <Real start="0"  />
+  </ScalarVariable> <!-- index="1" -->
+  <ScalarVariable name="i" valueReference="1" description="i" causality="output" variability="continuous" initial="calculated">
+    <Real  />
+  </ScalarVariable> <!-- index="2" -->
+  <ScalarVariable name="R" valueReference="2" description="R" causality="parameter" variability="tunable" initial="exact">
+    <Real start="1000" />
+  </ScalarVariable> <!-- index="3" -->
+  <ScalarVariable name="time" valueReference="3" description="time" causality="independent" variability="continuous" >
+    <Real  />
+  </ScalarVariable> <!-- index="4" -->
+</ModelVariables>
+<ModelStructure>
+  <Outputs>
+    <Unknown index="2" />
+  </Outputs>
+  <InitialUnknowns>
+    <Unknown index="2" />
+  </InitialUnknowns>
+</ModelStructure>
+</fmiModelDescription>
+
